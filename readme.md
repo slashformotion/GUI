@@ -16,7 +16,7 @@
 * **pygame :**   This library is fully based on pygame, so you must have it installed.
 
 *(optionnal)*
-* **latex :** you must avec latex install if you want to use the `LaText` widget 
+* **latex :** you must install latex install if you want to use the `LaText` widget 
             (`latex` and `dvipng` accessible in path)
 
 ### Installation
